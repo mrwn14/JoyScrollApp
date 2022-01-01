@@ -1,0 +1,12 @@
+C:\Users\Marouane\source\repos\compApp\compApp\bin\Debug\compApp.exe.config
+C:\Users\Marouane\source\repos\compApp\compApp\bin\Debug\compApp.exe
+C:\Users\Marouane\source\repos\compApp\compApp\bin\Debug\compApp.pdb
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.csproj.AssemblyReference.cache
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.Form1.resources
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.Properties.Resources.resources
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.csproj.GenerateResource.cache
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.csproj.CoreCompileInputs.cache
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.exe
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.pdb
+C:\Users\Marouane\source\repos\compApp\compApp\obj\Debug\compApp.Form2.resources
